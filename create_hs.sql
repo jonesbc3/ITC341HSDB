@@ -1,1 +1,0 @@
---Script for creating tables in high school database
